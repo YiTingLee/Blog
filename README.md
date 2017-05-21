@@ -5,6 +5,7 @@ MyBlog
 Use react,redux,react-redux,react-router,redux-form
 
 	> git clone https://github.com/YiTingLee/Blog.git
+	> cd Blog
 	> npm install
 	> npm start
 	
